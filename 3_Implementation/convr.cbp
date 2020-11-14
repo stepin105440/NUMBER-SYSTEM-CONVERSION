@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="convr" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/convr" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="inc" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/convr" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="inc" />
+					<Add directory="src" />
+					<Add directory="unity" />
+					<Add directory="test" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="inc/Bin_to_Dec.h" />
+		<Unit filename="inc/Bin_to_Hex.h" />
+		<Unit filename="inc/Bin_to_Oct.h" />
+		<Unit filename="inc/Dec_to_Bin.h" />
+		<Unit filename="inc/Dec_to_Hex.h" />
+		<Unit filename="inc/Dec_to_Oct.h" />
+		<Unit filename="inc/Hex_to_Bin.h" />
+		<Unit filename="inc/Hex_to_Dec.h" />
+		<Unit filename="inc/Hex_to_Oct.h" />
+		<Unit filename="inc/Oct_to_Bin.h" />
+		<Unit filename="inc/Oct_to_Dec.h" />
+		<Unit filename="inc/Oct_to_Hex.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Bin_to_Dec.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Bin_to_Hex.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Bin_to_Oct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Dec_to_Bin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Dec_to_Hex.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Dec_to_Oct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Hex_to_Bin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Hex_to_Dec.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Hex_to_Oct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Oct_to_Bin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Oct_to_Dec.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/Oct_to_Hex.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test/test_convr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test/test_convr.h" />
+		<Unit filename="unity/unity.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="unity/unity.h" />
+		<Unit filename="unity/unity_internals.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,310 @@
+# depslib dependency file v1.0
+1605350265 source:d:\codeblockss\cprograms\convr\convr\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"Bin_to_Dec.h"
+	"Bin_to_Oct.h"
+	"Bin_to_Hex.h"
+	"Dec_to_Bin.h"
+	"Dec_to_Oct.h"
+	"Dec_to_Hex.h"
+	"Oct_to_Bin.h"
+	"Oct_to_Dec.h"
+	"Oct_to_Hex.h"
+	"Hex_to_Bin.h"
+	"Hex_to_Dec.h"
+	"Hex_to_Oct.h"
+	"test_convr.h"
+
+1602089394 source:d:\codeblockss\cprograms\convr\convr\src\bin_to_dec.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"Bin_to_Dec.h"
+	"Bin_to_Oct.h"
+	"Bin_to_Hex.h"
+	"Dec_to_Bin.h"
+	"Dec_to_Oct.h"
+	"Dec_to_Hex.h"
+	"Oct_to_Bin.h"
+	"Oct_to_Dec.h"
+	"Oct_to_Hex.h"
+	"Hex_to_Bin.h"
+	"Hex_to_Dec.h"
+	"Hex_to_Oct.h"
+	"test_convr.h"
+
+1602089391 source:d:\codeblockss\cprograms\convr\convr\src\bin_to_hex.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"Bin_to_Dec.h"
+	"Bin_to_Oct.h"
+	"Bin_to_Hex.h"
+	"Dec_to_Bin.h"
+	"Dec_to_Oct.h"
+	"Dec_to_Hex.h"
+	"Oct_to_Bin.h"
+	"Oct_to_Dec.h"
+	"Oct_to_Hex.h"
+	"Hex_to_Bin.h"
+	"Hex_to_Dec.h"
+	"Hex_to_Oct.h"
+	"test_convr.h"
+
+1602089403 source:d:\codeblockss\cprograms\convr\convr\src\bin_to_oct.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"Bin_to_Dec.h"
+	"Bin_to_Oct.h"
+	"Bin_to_Hex.h"
+	"Dec_to_Bin.h"
+	"Dec_to_Oct.h"
+	"Dec_to_Hex.h"
+	"Oct_to_Bin.h"
+	"Oct_to_Dec.h"
+	"Oct_to_Hex.h"
+	"Hex_to_Bin.h"
+	"Hex_to_Dec.h"
+	"Hex_to_Oct.h"
+	"test_convr.h"
+
+1601996923 d:\codeblockss\cprograms\convr\convr\inc\bin_to_dec.h
+
+1601997162 d:\codeblockss\cprograms\convr\convr\inc\bin_to_oct.h
+
+1601997284 d:\codeblockss\cprograms\convr\convr\inc\bin_to_hex.h
+
+1601997537 d:\codeblockss\cprograms\convr\convr\inc\dec_to_bin.h
+
+1601997653 d:\codeblockss\cprograms\convr\convr\inc\dec_to_oct.h
+
+1601997891 d:\codeblockss\cprograms\convr\convr\inc\dec_to_hex.h
+
+1601999317 d:\codeblockss\cprograms\convr\convr\inc\oct_to_bin.h
+
+1601999401 d:\codeblockss\cprograms\convr\convr\inc\oct_to_dec.h
+
+1601999449 d:\codeblockss\cprograms\convr\convr\inc\oct_to_hex.h
+
+1605349588 d:\codeblockss\cprograms\convr\convr\inc\hex_to_bin.h
+
+1601999615 d:\codeblockss\cprograms\convr\convr\inc\hex_to_dec.h
+
+1601999662 d:\codeblockss\cprograms\convr\convr\inc\hex_to_oct.h
+
+1602089412 source:d:\codeblockss\cprograms\convr\convr\src\dec_to_bin.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"Bin_to_Dec.h"
+	"Bin_to_Oct.h"
+	"Bin_to_Hex.h"
+	"Dec_to_Bin.h"
+	"Dec_to_Oct.h"
+	"Dec_to_Hex.h"
+	"Oct_to_Bin.h"
+	"Oct_to_Dec.h"
+	"Oct_to_Hex.h"
+	"Hex_to_Bin.h"
+	"Hex_to_Dec.h"
+	"Hex_to_Oct.h"
+	"test_convr.h"
+
+1602330649 source:d:\codeblockss\cprograms\convr\convr\src\dec_to_hex.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"Bin_to_Dec.h"
+	"Bin_to_Oct.h"
+	"Bin_to_Hex.h"
+	"Dec_to_Bin.h"
+	"Dec_to_Oct.h"
+	"Dec_to_Hex.h"
+	"Oct_to_Bin.h"
+	"Oct_to_Dec.h"
+	"Oct_to_Hex.h"
+	"Hex_to_Bin.h"
+	"Hex_to_Dec.h"
+	"Hex_to_Oct.h"
+	"test_convr.h"
+
+1602089432 source:d:\codeblockss\cprograms\convr\convr\src\dec_to_oct.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"Bin_to_Dec.h"
+	"Bin_to_Oct.h"
+	"Bin_to_Hex.h"
+	"Dec_to_Bin.h"
+	"Dec_to_Oct.h"
+	"Dec_to_Hex.h"
+	"Oct_to_Bin.h"
+	"Oct_to_Dec.h"
+	"Oct_to_Hex.h"
+	"Hex_to_Bin.h"
+	"Hex_to_Dec.h"
+	"Hex_to_Oct.h"
+	"test_convr.h"
+
+1602089442 source:d:\codeblockss\cprograms\convr\convr\src\hex_to_bin.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"Bin_to_Dec.h"
+	"Bin_to_Oct.h"
+	"Bin_to_Hex.h"
+	"Dec_to_Bin.h"
+	"Dec_to_Oct.h"
+	"Dec_to_Hex.h"
+	"Oct_to_Bin.h"
+	"Oct_to_Dec.h"
+	"Oct_to_Hex.h"
+	"Hex_to_Bin.h"
+	"Hex_to_Dec.h"
+	"Hex_to_Oct.h"
+	"test_convr.h"
+
+1602089450 source:d:\codeblockss\cprograms\convr\convr\src\hex_to_dec.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"Bin_to_Dec.h"
+	"Bin_to_Oct.h"
+	"Bin_to_Hex.h"
+	"Dec_to_Bin.h"
+	"Dec_to_Oct.h"
+	"Dec_to_Hex.h"
+	"Oct_to_Bin.h"
+	"Oct_to_Dec.h"
+	"Oct_to_Hex.h"
+	"Hex_to_Bin.h"
+	"Hex_to_Dec.h"
+	"Hex_to_Oct.h"
+	"test_convr.h"
+
+1602089458 source:d:\codeblockss\cprograms\convr\convr\src\hex_to_oct.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"Bin_to_Dec.h"
+	"Bin_to_Oct.h"
+	"Bin_to_Hex.h"
+	"Dec_to_Bin.h"
+	"Dec_to_Oct.h"
+	"Dec_to_Hex.h"
+	"Oct_to_Bin.h"
+	"Oct_to_Dec.h"
+	"Oct_to_Hex.h"
+	"Hex_to_Bin.h"
+	"Hex_to_Dec.h"
+	"Hex_to_Oct.h"
+	"test_convr.h"
+
+1602089466 source:d:\codeblockss\cprograms\convr\convr\src\oct_to_bin.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"Bin_to_Dec.h"
+	"Bin_to_Oct.h"
+	"Bin_to_Hex.h"
+	"Dec_to_Bin.h"
+	"Dec_to_Oct.h"
+	"Dec_to_Hex.h"
+	"Oct_to_Bin.h"
+	"Oct_to_Dec.h"
+	"Oct_to_Hex.h"
+	"Hex_to_Bin.h"
+	"Hex_to_Dec.h"
+	"Hex_to_Oct.h"
+	"test_convr.h"
+
+1602089474 source:d:\codeblockss\cprograms\convr\convr\src\oct_to_dec.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"Bin_to_Dec.h"
+	"Bin_to_Oct.h"
+	"Bin_to_Hex.h"
+	"Dec_to_Bin.h"
+	"Dec_to_Oct.h"
+	"Dec_to_Hex.h"
+	"Oct_to_Bin.h"
+	"Oct_to_Dec.h"
+	"Oct_to_Hex.h"
+	"Hex_to_Bin.h"
+	"Hex_to_Dec.h"
+	"Hex_to_Oct.h"
+	"test_convr.h"
+
+1602089483 source:d:\codeblockss\cprograms\convr\convr\src\oct_to_hex.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	"Bin_to_Dec.h"
+	"Bin_to_Oct.h"
+	"Bin_to_Hex.h"
+	"Dec_to_Bin.h"
+	"Dec_to_Oct.h"
+	"Dec_to_Hex.h"
+	"Oct_to_Bin.h"
+	"Oct_to_Dec.h"
+	"Oct_to_Hex.h"
+	"Hex_to_Bin.h"
+	"Hex_to_Dec.h"
+	"Hex_to_Oct.h"
+	"test_convr.h"
+
+1602081247 d:\codeblockss\cprograms\convr\convr\test\test_convr.h
+
+1601958450 source:d:\codeblockss\cprograms\convr\convr\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1596710268 d:\codeblockss\cprograms\convr\convr\unity\unity.h
+	"unity_internals.h"
+
+1596710268 d:\codeblockss\cprograms\convr\convr\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1605349633 source:d:\codeblockss\cprograms\convr\convr\test\test_convr.c
+	"unity.h"
+	"Bin_to_Dec.h"
+	"Bin_to_Oct.h"
+	"Bin_to_Hex.h"
+	"Dec_to_Bin.h"
+	"Dec_to_Oct.h"
+	"Dec_to_Hex.h"
+	"Oct_to_Bin.h"
+	"Oct_to_Dec.h"
+	"Oct_to_Hex.h"
+	"Hex_to_Bin.h"
+	"Hex_to_Dec.h"
+	"Hex_to_Oct.h"
+
