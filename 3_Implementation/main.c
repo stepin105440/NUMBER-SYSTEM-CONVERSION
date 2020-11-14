@@ -260,7 +260,7 @@ int main()
                 printf("\n***INVALID NUMBER***\n");
                 break;
         }
-        printf("\n\nDO YOU WANT TO CONTINUE = (1/0) :\n");
+        printf("\n\nDO YOU WANT TO CONTINUE = (1/0)  Enter 0 for unitytest:\n");
         scanf("%d",&num);
 
     }
